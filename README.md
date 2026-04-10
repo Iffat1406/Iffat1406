@@ -1,13 +1,98 @@
-# Hi there 👋, I'm Iffat
+<h1 align="center">Hi 👋, I'm Iffat Shaikh</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN | Learning AWS ☁️</h3>
 
-## 🚀 About Me
-- 💻 Full Stack Developer (MERN)
-- 🌱 Currently learning: AWS, System Design
-- 🎯 Goal: Become a strong backend + cloud engineer
-- ⚡ Fun fact: I love building real-world projects
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Real+World+Projects;Learning+Cloud+%26+System+Design&center=true&width=500&height=45">
+</p>
 
-## 🛠️ Tech Stack
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express
-- Database: MongoDB, PostgreSQL
-- Tools: Git, GitHub, VS Code
+---
+
+## 🧑‍💻 About Me
+
+- 💻 Full Stack Developer (MERN Stack)
+- 🌱 Currently learning **AWS & System Design**
+- 🔥 Passionate about building real-world scalable apps
+- 🎯 Goal: Become a Backend + Cloud Engineer
+- ⚡ Working on improving consistency & avoiding procrastination
+
+---
+
+## 🚀 Tech Stack
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+### ☁️ Tools & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,aws,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+- 🚀 **Travel Website (MERN Stack)**  
+- 📊 **Personal Finance Visualizer (Vite + React)**  
+- 📈 **GitHub Activity Tracker**  
+- 🧩 **Drag & Drop Website Builder (React)**  
+
+---
+
+## 🏆 Achievements & Goals
+
+- ✅ Completed Full Stack Development (upGrad)
+- 💼 Working on real-world backend systems
+- 🎯 Next Goal: Deploy production apps on AWS
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## 💡 Fun Fact
+
+💬 I believe in: *"Consistency beats talent when talent doesn’t work hard."*
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repositories!
+</p>
