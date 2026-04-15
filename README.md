@@ -39,53 +39,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,aws,vscode" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Featured Projects
-
-- 🚀 **Travel Website (MERN Stack)**  
-- 📊 **Personal Finance Visualizer (Vite + React)**  
-- 📈 **GitHub Activity Tracker**  
-- 🧩 **Drag & Drop Website Builder (React)**  
-
----
-
-## 🏆 Achievements & Goals
-
-- ✅ Completed Full Stack Development (upGrad)
-- 💼 Working on real-world backend systems
-- 🎯 Next Goal: Deploy production apps on AWS
-
----
-
-## 📫 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
----
 
 ## 💡 Fun Fact
 
